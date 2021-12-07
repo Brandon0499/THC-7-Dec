@@ -24,4 +24,6 @@ Github - Place to host your project
 5. git push(save changes to GitHub/remote repo)
 6. git pull(get latest changes from GitHub/remote repo)
 7. git clone(downlading a remote repo)
-8. git status
+8. git status(check for repo status)
+9. git branch(create new branch)
+10. git checkout(switch to different branch)
